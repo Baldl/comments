@@ -23,8 +23,8 @@
 #baseurl: "/data/UNIMR/lm_data/lm_2287352"
 
 # Serve on GitHub
-url: https://geomoer.github.io
-baseurl: "/KI-Kampus-Test/"
+#url: https://geomoer.github.io
+baseurl: "/comments/"
 
 
 ##### Title ###################################################################
@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until next item
 title_separator          : "|"
 excerpt_separator        : <!--more-->
 locale                   : "en-EN"
-repository               : "Baldl/KI-Kampus-Test"
+repository               : "Baldl/comments"
 
 
 # Build settings
