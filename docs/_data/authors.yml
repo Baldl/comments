@@ -1,0 +1,43 @@
+
+# /_data/authors.yml
+
+- bald:
+  name             : "Lisa Bald"
+  avatar           : "/assets/images/authors/dummy.jpg"
+  email            : "ui-lehre@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+- nauss:
+  name             : "Thomas Nauss"
+  avatar           : "/assets/images/authors/nauss.jpg"
+  email            : "ui-lehre@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/team/thomas-nauss"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+- reudenbach:
+  name             : "Chris Reudenbach"
+  avatar           : "/assets/images/authors/reudenbach.jpg"
+  email            : "ui-lehre@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+- zeuss:
+  name             : "Dirk Zeuss"
+  avatar           : "/assets/images/authors/zeuss.jpg"
+  email            : "dirk.zeuss@uni-marburg.de"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dirk-zeuss"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+- frac:
+  name             : "Kevin Frac"
+  avatar           : "/assets/images/authors/dummy.jpg"
+  email            : "ui-lehre@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"  

@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="360" viewBox="0 0 940 288">
+<linearGradient id="lgGrey">
+<stop offset="0" stop-color="#F5F5F5"/>
+<stop offset=".0147" stop-color="#D5D5D5"/>
+<stop offset=".0425" stop-color="#9F9F9F"/>
+<stop offset=".0632" stop-color="#7D7D7D"/>
+<stop offset=".0745" stop-color="#707070"/>
+<stop offset=".913" stop-color="#707070"/>
+<stop offset=".925" stop-color="#7A7A7A"/>
+<stop offset=".9455" stop-color="#949494"/>
+<stop offset=".9716" stop-color="#BFBFBF"/>
+<stop offset="1" stop-color="#F5F5F5"/>
+</linearGradient>
+<linearGradient id="lgSpectrum">
+<stop offset="0" stop-color="#F5F5F5"/>
+<stop offset=".0106" stop-color="#F2F0F2"/>
+<stop offset=".0222" stop-color="#EAE0E8"/>
+<stop offset=".0344" stop-color="#DCC8DA"/>
+<stop offset=".047" stop-color="#CAA8C9"/>
+<stop offset=".0598" stop-color="#B480B2"/>
+<stop offset=".0729" stop-color="#985299"/>
+<stop offset=".0859" stop-color="#7A2280"/>
+<stop offset=".0913" stop-color="#6D0F76"/>
+<stop offset=".1047" stop-color="#670E76"/>
+<stop offset=".1229" stop-color="#590D76"/>
+<stop offset=".1437" stop-color="#410A78"/>
+<stop offset=".1664" stop-color="#21057A"/>
+<stop offset=".1712" stop-color="#19037B"/>
+<stop offset=".2854" stop-color="#1A9BC0"/>
+<stop offset=".4109" stop-color="#168739"/>
+<stop offset=".5593" stop-color="#F7F619"/>
+<stop offset=".5781" stop-color="#F7EE18"/>
+<stop offset=".6075" stop-color="#F8D917"/>
+<stop offset=".6437" stop-color="#F8B615"/>
+<stop offset=".6853" stop-color="#F88512"/>
+<stop offset=".7308" stop-color="#FA470F"/>
+<stop offset=".7704" stop-color="#FB0F0C"/>
+<stop offset=".9131" stop-color="#AC0F0D"/>
+<stop offset="1" stop-color="#F5F5F5"/>
+</linearGradient>
+<marker id="arrow" orient="auto" overflow="visible">
+<path d="M4.2 0-1.7-1.9V1.9Z"/>
+</marker>
+
+<rect width="940" height="288" fill="#F5F5F5"/>
+<path d="M117 108V12.55H810V108L425.77 129.56v16.61H408.78V129.56Z" fill="url(#lgGrey)"/>
+<rect x="87" y="47" width="750" height="33" fill="url(#lgSpectrum)"/>
+
+<g fill="none" stroke="#000">
+<g stroke-width="2.55" marker-end="url(#arrow)">
+<path d="M136.46 70.36H90.7"/>
+<path d="M806.96 70.08h45.8"/>
+</g>
+<path d="M250.5,88.09h445" stroke="#FFF" stroke-dasharray="1,87.63" stroke-width="15.16"/>
+
+<path d="M88.76 145.9H922.8"/>
+<path d="M88.05 141.05v10.19m65.47-10.19v29.42m68.01-29.42v32.81h18.25m94.11 0h19.56m.29-32.81v53.14m38.07-53.14v11.38H374.15v18.82m23.34-30.2v8.37m5.69 0v-8.37m5.36 0v49.34m17.42-49.34v29.62m52.9-29.62v29.42m64.67-29.42v47.18h14.24m132 0H622m124.77 0h62.54V141.05m-175.83 0v47.18m26.29-47.18V163m12-21.95v10.19m44.63-10.19V163m44.95-21.95v10.19m59.37-10.19v47.18h3.78m95.1 0H923V141.05" stroke="#7F7F7F"/>
+
+<g stroke="#919191">
+<path d="M98.75 252.32h800" stroke-dasharray=".58,37.38" stroke-width="6.66"/>
+<path d="M88 216.21H923.25m0 32.77H88m0 .02V213m0-11V165.87M126 249V177m37.96 72V177m37.96 72V213m0-11V177m37.95 72V185m37.96 64V213m0-11V185m37.96 64V213m0-11V185m37.95 64V200.83M391.7 249V200.83M429.66 249V213m0-11V190m37.95 59V196.92M505.57 249V196.92M543.53 249V213m0-11v-6m37.95 53V213m0-11v-6m37.96 53V196m37.96 53V213m0-11v-6m37.95 53V196m37.96 53V196m37.96 53V213m0-11V189.54M809.23 249V191.34M847.18 249V193.89M885.14 249V213m0-11v-8.11M923.25 249V193.89" stroke-width=".58"/>
+</g>
+</g>
+
+<rect x="85" y="223" width="840" height="19" fill="#F5F5F5"/>
+
+<g font-family="Verdana, sans-serif" font-size="9.25">
+<g font-size="14">
+<switch><text x="805.9" y="62.21" id="trsvg152-eu" systemLanguage="eu"><tspan id="trsvg1-eu">Infragorria</tspan></text><text x="805.9" y="62.21" id="trsvg152"><tspan id="trsvg1">Infrared</tspan></text></switch>
+<switch><text x="72.84" y="62.21" id="trsvg153-eu" systemLanguage="eu"><tspan id="trsvg2-eu">Ultramorea</tspan></text><text x="72.84" y="62.21" id="trsvg153"><tspan id="trsvg2">Ultraviolet</tspan></text></switch>
+<g fill="#FFF">
+<switch><text x="477.22" y="37.71" font-size="21" text-anchor="middle" id="trsvg154-eu" systemLanguage="eu"><tspan id="trsvg3-eu">Gizakiontzat ikusgaia den espektroa (argia)</tspan></text><text x="477.22" y="37.71" font-size="21" text-anchor="middle" id="trsvg154"><tspan id="trsvg3">The human visible spectrum (light)</tspan></text></switch>
+<switch><text x="168.98" y="95.11" id="trsvg155"><tspan id="trsvg4">400 nm</tspan></text></switch>
+<switch><text x="257.37" y="95.11" id="trsvg156"><tspan id="trsvg5">450 nm</tspan></text></switch>
+<switch><text x="434.17" y="95.11" id="trsvg157"><tspan id="trsvg6">550 nm</tspan></text></switch>
+<switch><text x="345.77" y="95.11" id="trsvg158"><tspan id="trsvg7">500 nm</tspan></text></switch>
+<switch><text x="522.56" y="95.11" id="trsvg159"><tspan id="trsvg8">600 nm</tspan></text></switch>
+<switch><text x="610.96" y="95.11" id="trsvg160"><tspan id="trsvg9">650 nm</tspan></text></switch>
+<switch><text x="699.36" y="95.11" id="trsvg161"><tspan id="trsvg10">700 nm</tspan></text></switch>
+</g>
+<switch><text x="787.75" y="95.11" id="trsvg162"><tspan id="trsvg11">750 nm</tspan></text></switch>
+</g>
+
+<switch><text x="102.15" y="160.33" id="trsvg163-eu" systemLanguage="eu"><tspan id="trsvg12-eu">Izpi</tspan><tspan x="102.15" dy="9.25" id="trsvg13-eu">kosmikoak</tspan></text><text x="102.15" y="160.33" id="trsvg163"><tspan id="trsvg12">Cosmic</tspan><tspan x="102.15" dy="9.25" id="trsvg13">radiation</tspan></text></switch>
+<switch><text x="164.87" y="160.33" id="trsvg164-eu" systemLanguage="eu"><tspan id="trsvg14-eu">Gamma</tspan><tspan x="164.87" dy="9.25" id="trsvg15-eu">izpiak</tspan></text><text x="164.87" y="160.33" id="trsvg164"><tspan id="trsvg14">Gamma</tspan><tspan x="164.87" dy="9.25" id="trsvg15">radiation</tspan></text></switch>
+<switch><text x="225.68" y="160.06" id="trsvg165-eu" systemLanguage="eu"><tspan id="trsvg16-eu"> </tspan></text><text x="225.68" y="160.06" id="trsvg165"><tspan id="trsvg16">hard-</tspan></text></switch>
+<switch><text x="264" y="160.06" id="trsvg166-eu" systemLanguage="eu"><tspan id="trsvg17-eu"> X izpiak</tspan></text><text x="264" y="160.06" id="trsvg166"><tspan id="trsvg17">medium-</tspan></text></switch>
+<switch><text x="320" y="160.06" id="trsvg167-eu" systemLanguage="eu"><tspan id="trsvg18-eu"> </tspan></text><text x="320" y="160.06" id="trsvg167"><tspan id="trsvg18">soft-</tspan></text></switch>
+<switch><text x="253.57" y="176.1" id="trsvg168-eu" systemLanguage="eu"><tspan id="trsvg19-eu"> </tspan></text><text x="253.57" y="176.1" id="trsvg168"><tspan id="trsvg19">X-ray radiation</tspan></text></switch>
+<switch><text x="377.31" y="162.98" id="trsvg169"><tspan id="trsvg20">UV-</tspan><tspan x="377.31" dy="8.75" id="trsvg21">C/B/A</tspan></text></switch>
+<switch><text x="355.15" y="185.44" id="trsvg170-eu" systemLanguage="eu"><tspan id="trsvg22-eu">Izpi</tspan><tspan x="355.15" dy="9.25" id="trsvg23-eu">ultramoreak</tspan></text><text x="355.15" y="185.44" id="trsvg170"><tspan id="trsvg22">Ultraviolet</tspan><tspan x="355.15" dy="9.25" id="trsvg23">radiation</tspan></text></switch>
+<switch><text x="433.96" y="160.33" id="trsvg171-eu" systemLanguage="eu"><tspan id="trsvg24-eu">Izpi</tspan><tspan x="433.96" dy="9.25" id="trsvg25-eu">infragorriak</tspan></text><text x="433.96" y="160.33" id="trsvg171"><tspan id="trsvg24">Infrared</tspan><tspan x="433.96" dy="9.25" id="trsvg25">radiation</tspan></text></switch>
+<switch><text x="486.58" y="160.33" id="trsvg172-eu" systemLanguage="eu"><tspan id="trsvg26-eu"> </tspan><tspan x="486.58" dy="9.25" id="trsvg27-eu"> </tspan></text><text x="486.58" y="160.33" id="trsvg172"><tspan id="trsvg26">Terahertz</tspan><tspan x="486.58" dy="9.25" id="trsvg27">radiation</tspan></text></switch>
+<switch><text x="547.2" y="160.06" id="trsvg173"><tspan id="trsvg28">Radar</tspan></text></switch>
+<switch><text x="584.83" y="160.06" id="trsvg174-eu" systemLanguage="eu"><tspan id="trsvg29-eu"> </tspan></text><text x="584.83" y="160.06" id="trsvg174"><tspan id="trsvg29">MW-oven</tspan></text></switch>
+<switch><text x="564.98" y="190.26" id="trsvg175-eu" systemLanguage="eu"><tspan id="trsvg30-eu">Mikrouhinak</tspan></text><text x="564.98" y="190.26" id="trsvg175"><tspan id="trsvg30">Microwave</tspan></text></switch>
+<switch><text x="635.77" y="160.06" id="trsvg176"><tspan id="trsvg31">UHF</tspan></text></switch>
+<switch><text x="649.77" y="173.1" id="trsvg177"><tspan id="trsvg32">VHF</tspan></text></switch>
+<switch><text x="669.77" y="160.06" id="trsvg178"><tspan id="trsvg33">UKW</tspan></text></switch>
+<switch><text x="695.54" y="173.1" id="trsvg179-eu" systemLanguage="eu"><tspan id="trsvg34-eu"> </tspan></text><text x="695.54" y="173.1" id="trsvg179"><tspan id="trsvg34">Shortwave </tspan></text></switch>
+<switch><text x="742.8" y="160.06" id="trsvg180-eu" systemLanguage="eu"><tspan id="trsvg35-eu"> </tspan></text><text x="742.8" y="160.06" id="trsvg180"><tspan id="trsvg35">Medium</tspan></text></switch>
+<switch><text x="758.15" y="173.1" id="trsvg181-eu" systemLanguage="eu"><tspan id="trsvg36-eu"> </tspan></text><text x="758.15" y="173.1" id="trsvg181"><tspan id="trsvg36">Longwave</tspan></text></switch>
+<switch><text x="689.95" y="190.36" id="trsvg182-eu" systemLanguage="eu"><tspan id="trsvg37-eu">Irrati-uhinak</tspan></text><text x="689.95" y="190.36" id="trsvg182"><tspan id="trsvg37">Radiowaves</tspan></text></switch>
+<switch><text x="823.86" y="160.06" id="trsvg183-eu" systemLanguage="eu"><tspan id="trsvg38-eu">Maiztasun</tspan></text><text x="823.86" y="160.06" id="trsvg183"><tspan id="trsvg38">high-</tspan></text></switch>
+<switch><text x="852" y="160.06" id="trsvg184-eu" systemLanguage="eu"><tspan id="trsvg39-eu"> </tspan></text><text x="852" y="160.06" id="trsvg184"><tspan id="trsvg39">medium-</tspan></text></switch>
+<switch><text x="900" y="160.06" id="trsvg185-eu" systemLanguage="eu"><tspan id="trsvg40-eu"> oso</tspan></text><text x="900" y="160.06" id="trsvg185"><tspan id="trsvg40">low-</tspan></text></switch>
+<switch><text x="849.1" y="173.3" id="trsvg186-eu" systemLanguage="eu"><tspan id="trsvg41-eu">baxuak</tspan></text><text x="849.1" y="173.3" id="trsvg186"><tspan id="trsvg41">frequency</tspan></text></switch>
+<switch><text x="824.82" y="189.5" id="trsvg187-eu" systemLanguage="eu"><tspan id="trsvg42-eu"> </tspan></text><text x="824.82" y="189.5" id="trsvg187"><tspan id="trsvg42">Alternating currents</tspan></text></switch>
+
+<switch><text x="77.94" y="211.21" id="trsvg188"><tspan id="trsvg43">1 fm</tspan></text></switch>
+<switch><text x="192.94" y="211.21" id="trsvg189"><tspan id="trsvg44">1 pm</tspan></text></switch>
+<switch><text x="270.94" y="211.21" id="trsvg190"><tspan id="trsvg45">1 &#xC5;</tspan></text></switch>
+<switch><text x="305.94" y="211.21" id="trsvg191"><tspan id="trsvg46">1 nm</tspan></text></switch>
+<switch><text x="418.94" y="211.21" id="trsvg192"><tspan id="trsvg47">1 &#xB5;m</tspan></text></switch>
+<switch><text x="530.84" y="211.21" id="trsvg193"><tspan id="trsvg48">1 mm</tspan></text></switch>
+<switch><text x="569.13" y="211.21" id="trsvg194"><tspan id="trsvg49">1 cm</tspan></text></switch>
+<switch><text x="647.86" y="211.21" id="trsvg195"><tspan id="trsvg50">1 m</tspan></text></switch>
+<switch><text x="761.34" y="211.21" id="trsvg196"><tspan id="trsvg51">1 km</tspan></text></switch>
+<switch><text x="874.34" y="211.21" id="trsvg197"><tspan id="trsvg52">1 Mm</tspan></text></switch>
+
+<switch><text x="1.74" y="236.38" id="trsvg198-eu" systemLanguage="eu"><tspan id="trsvg53-eu">Uhin-luzera (m)</tspan></text><text x="1.74" y="236.38" id="trsvg198"><tspan id="trsvg53">Wavelength (m)</tspan></text></switch>
+<switch><text x="10.25" y="267.43" id="trsvg199-eu" systemLanguage="eu"><tspan id="trsvg54-eu">Maiztasuna (Hz)</tspan></text><text x="10.25" y="267.43" id="trsvg199"><tspan id="trsvg54">Frequency (Hz)</tspan></text></switch>
+<g font-size="10">
+<switch><text x="77.78" y="237.56" id="trsvg200"><tspan id="trsvg55">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg56">&#x2013;15</tspan></text></switch>
+<switch><text x="115.34" y="237.56" id="trsvg201"><tspan id="trsvg57">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg58">&#x2013;14</tspan></text></switch>
+<switch><text x="152.9" y="237.56" id="trsvg202"><tspan id="trsvg59">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg60">&#x2013;13</tspan></text></switch>
+<switch><text x="190.47" y="237.56" id="trsvg203"><tspan id="trsvg61">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg62">&#x2013;12</tspan></text></switch>
+<switch><text x="228.8" y="237.56" id="trsvg204"><tspan id="trsvg63">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg64">&#x2013;11</tspan></text></switch>
+<switch><text x="265.59" y="237.56" id="trsvg205"><tspan id="trsvg65">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg66">&#x2013;10</tspan></text></switch>
+<switch><text x="308.89" y="237.56" id="trsvg206"><tspan id="trsvg67">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg68">&#x2013;9</tspan></text></switch>
+<switch><text x="346.46" y="237.56" id="trsvg207"><tspan id="trsvg69">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg70">&#x2013;8</tspan></text></switch>
+<switch><text x="384.02" y="237.56" id="trsvg208"><tspan id="trsvg71">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg72">&#x2013;7</tspan></text></switch>
+<switch><text x="421.58" y="237.56" id="trsvg209"><tspan id="trsvg73">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg74">&#x2013;6</tspan></text></switch>
+<switch><text x="459.15" y="237.56" id="trsvg210"><tspan id="trsvg75">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg76">&#x2013;5</tspan></text></switch>
+<switch><text x="496.71" y="237.56" id="trsvg211"><tspan id="trsvg77">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg78">&#x2013;4</tspan></text></switch>
+<switch><text x="534.28" y="237.56" id="trsvg212"><tspan id="trsvg79">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg80">&#x2013;3</tspan></text></switch>
+<switch><text x="571.84" y="237.56" id="trsvg213"><tspan id="trsvg81">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg82">&#x2013;2</tspan></text></switch>
+<switch><text x="609.41" y="237.56" id="trsvg214"><tspan id="trsvg83">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg84">&#x2013;1</tspan></text></switch>
+<switch><text x="650.4" y="237.56" id="trsvg215"><tspan id="trsvg85">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg86">0</tspan></text></switch>
+<switch><text x="687.97" y="237.56" id="trsvg216"><tspan id="trsvg87">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg88">1</tspan></text></switch>
+<switch><text x="725.53" y="237.56" id="trsvg217"><tspan id="trsvg89">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg90">2</tspan></text></switch>
+<switch><text x="763.09" y="237.56" id="trsvg218"><tspan id="trsvg91">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg92">3</tspan></text></switch>
+<switch><text x="800.66" y="237.56" id="trsvg219"><tspan id="trsvg93">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg94">4</tspan></text></switch>
+<switch><text x="838.22" y="237.56" id="trsvg220"><tspan id="trsvg95">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg96">5</tspan></text></switch>
+<switch><text x="875.57" y="237.56" id="trsvg221"><tspan id="trsvg97">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg98">6</tspan></text></switch>
+<switch><text x="912.92" y="237.56" id="trsvg222"><tspan id="trsvg99">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg100">7</tspan></text></switch>
+
+<switch><text x="86.97" y="268.23" id="trsvg223"><tspan id="trsvg101">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg102">23</tspan></text></switch>
+<switch><text x="124.8" y="268.23" id="trsvg224"><tspan id="trsvg103">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg104">22</tspan></text></switch>
+<switch><text x="162.76" y="268.23" id="trsvg225"><tspan id="trsvg105">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg106">21</tspan></text></switch>
+<switch><text x="201.06" y="268.23" id="trsvg226"><tspan id="trsvg107">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg108">20</tspan></text></switch>
+<switch><text x="238.89" y="268.23" id="trsvg227"><tspan id="trsvg109">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg110">19</tspan></text></switch>
+<switch><text x="276.85" y="268.23" id="trsvg228"><tspan id="trsvg111">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg112">18</tspan></text></switch>
+<switch><text x="314.81" y="268.23" id="trsvg229"><tspan id="trsvg113">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg114">17</tspan></text></switch>
+<switch><text x="352.76" y="268.23" id="trsvg230"><tspan id="trsvg115">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg116">16</tspan></text></switch>
+<switch><text x="390.72" y="268.23" id="trsvg231"><tspan id="trsvg117">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg118">15</tspan></text></switch>
+<switch><text x="428.67" y="268.23" id="trsvg232"><tspan id="trsvg119">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg120">14</tspan></text></switch>
+<switch><text x="466.63" y="268.23" id="trsvg233"><tspan id="trsvg121">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg122">13</tspan></text></switch>
+<switch><text x="504.59" y="268.23" id="trsvg234"><tspan id="trsvg123">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg124">12</tspan></text></switch>
+<switch><text x="542.54" y="268.23" id="trsvg235"><tspan id="trsvg125">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg126">11</tspan></text></switch>
+<switch><text x="580.5" y="268.23" id="trsvg236"><tspan id="trsvg127">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg128">10</tspan></text></switch>
+<switch><text x="618.46" y="268.23" id="trsvg237"><tspan id="trsvg129">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg130">9</tspan></text></switch>
+<switch><text x="656.41" y="268.23" id="trsvg238"><tspan id="trsvg131">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg132">8</tspan></text></switch>
+<switch><text x="694.37" y="268.23" id="trsvg239"><tspan id="trsvg133">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg134">7</tspan></text></switch>
+<switch><text x="732.33" y="268.23" id="trsvg240"><tspan id="trsvg135">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg136">6</tspan></text></switch>
+<switch><text x="770.29" y="268.23" id="trsvg241"><tspan id="trsvg137">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg138">5</tspan></text></switch>
+<switch><text x="808.24" y="268.23" id="trsvg242"><tspan id="trsvg139">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg140">4</tspan></text></switch>
+<switch><text x="846.2" y="268.23" id="trsvg243"><tspan id="trsvg141">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg142">3</tspan></text></switch>
+<switch><text x="884.16" y="268.23" id="trsvg244"><tspan id="trsvg143">10</tspan><tspan dy="-6.4" font-size="8" id="trsvg144">2</tspan></text></switch>
+
+<switch><text x="147.32" y="280" id="trsvg245"><tspan id="trsvg145">1 Zetta-Hz</tspan></text></switch>
+<switch><text x="264.28" y="280" id="trsvg246"><tspan id="trsvg146">1 Exa-Hz</tspan></text></switch>
+<switch><text x="376.43" y="280" id="trsvg247"><tspan id="trsvg147">1 Peta-Hz</tspan></text></switch>
+<switch><text x="490.97" y="280" id="trsvg248"><tspan id="trsvg148">1 Tera-Hz</tspan></text></switch>
+<switch><text x="603.88" y="280" id="trsvg249"><tspan id="trsvg149">1 Giga-Hz</tspan></text></switch>
+<switch><text x="715.75" y="280" id="trsvg250"><tspan id="trsvg150">1 Mega-Hz</tspan></text></switch>
+<switch><text x="833.92" y="280" id="trsvg251"><tspan id="trsvg151">1 Kilo-Hz</tspan></text></switch>
+</g>
+</g>
+</svg>

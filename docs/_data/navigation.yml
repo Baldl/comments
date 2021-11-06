@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "Units"
+    url: /units.html
+  - title: "FAQ"
+    url: /unit00/unit00-02_FAQ.html
+  - title: "Courses"
+    url: https://geomoer.github.io/moer-info-page/
+  - title: "Lab Home"
+    url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
+  - title: "About"
+    url: https://geomoer.github.io/moer-info-page/about.html
+  
+
+
+
+
+docs:
+  - title: Ways out
+    children:
+      - title: "Course Units"
+        url: /units.html
+      - title: "go to ILIAS"
+        url: https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui
+      - title: "go to OER"
+        url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
