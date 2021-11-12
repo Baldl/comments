@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Tree Species Hesse</title>
+      <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+	  <script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	   <!-- Full screen map: -->
+	   <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        html, body, #map {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+   </head>
+
+   <body>
+      <div id = "map"></div>
+      <script>
+         // Creating map options
+         var mapOptions = {
+            center: [50.55,8.685908],
+            zoom: 8
+         }
+         
+         // Creating a map object
+         var map = new L.map('map', mapOptions);
+         
+          // Creating base layer
+         var osmLayer =  L.tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
+		maxZoom: 18,
+		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+		});
+		 map.addLayer(osmLayer);
+		 
+		var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+		});
+		
+		var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+		maxZoom: 17,
+		attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+		});
+		
+		
+		
+		 var wmsLayer = L.tileLayer.wms('https://vhrz1078.hrz.uni-marburg.de:8201/public/AK5GHCKHSMCZ/static', {layers: 'color'});
+         // Adding layer to the map
+         map.addLayer(wmsLayer);
+		 
+		 
+		
+		 // add Layer control
+		var baseMaps = {
+		"Open Street Map": osmLayer,
+		"Esri World Imagery": Esri_WorldImagery,
+		"Open Topo Map": OpenTopoMap
+		};
+	
+		var overlayMaps = {
+		"Tree Species": wmsLayer
+		};
+	
+		L.control.layers(baseMaps, overlayMaps, {collapsed:false}).addTo(map);
+
+		
+		
+		
+		
+	/*Legend specific*/
+	var legend = L.control({ position: "bottomright" });
+
+	legend.onAdd = function(map) {
+		var div = L.DomUtil.create("div", "legend");
+		div.innerHTML += "<h4>Tree Species</h4>";
+		div.innerHTML += '<i style="background: #74d70b"></i><span>Beech</span><br>';
+		div.innerHTML += '<i style="background: #ed6ccd"></i><span>Douglas fir</span><br>';
+		div.innerHTML += '<i style="background: #deea13"></i><span>Oak</span><br>';
+		div.innerHTML += '<i style="background: #173fc5"></i><span>Spruce</span><br>';
+		div.innerHTML += '<i style="background: #dc0f0f"></i><span>Pine</span><br>';
+		div.innerHTML += '<i style="background: #f18304"></i><span>Larch</span><br>';
+		div.innerHTML += '<i style="background: #560e2d"></i><span>Long-lived trees</span><br>';
+		div.innerHTML += '<i style="background: #51c8f7"></i><span>Short-lived trees</span><br>';
+		
+		
+	return div;
+	};
+
+	legend.addTo(map);
+	
+	
+	
+		
+		
+		
+      </script>
+   </body>
+   
+   <style>	
+
+	/*Legend specific layout with css*/
+	.legend {
+		padding: 6px 8px;
+		font: 14px Arial, Helvetica, sans-serif;
+		background: white;
+		background: rgba(255, 255, 255, 0.8);
+		/*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+		/*border-radius: 5px;*/
+		line-height: 24px;
+		color: #555;
+	}
+	.legend h4 {
+		text-align: center;
+		font-size: 16px;
+		margin: 2px 12px 8px;
+		color: #777;
+	}
+
+	.legend span {
+		position: relative;
+		bottom: 3px;
+	}
+
+	.legend i {
+		width: 18px;
+		height: 18px;
+		float: left;
+		margin: 0 8px 0 0;
+		opacity: 0.7;
+	}
+
+	.legend i.icon {
+	background-size: 18px;
+	background-color: rgba(255, 255, 255, 1);
+	}
+
+		
+	</style>	
+</html>
